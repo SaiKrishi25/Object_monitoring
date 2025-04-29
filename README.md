@@ -34,9 +34,15 @@ The processed video will be saved in the `output` directory.
 ## Features
 
 - Missing Object Detection: Identifies when previously present objects are no longer visible
+
 - New Object Placement Detection: Detects when new objects appear in the scene
+
+- TrueID-Based Object Re-Identification: Tracks and identifies old objects based on a consistent trueID across frames, ensuring robust monitoring even if objects temporarily disappear and reappear
+
 - Real-time tracking and visualization
-- Performance metrics (FPS)
+
+- Performance metrics (FPS calculation)
+
 - Output video generation with annotations
 
 ## Project Structure
