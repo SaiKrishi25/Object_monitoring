@@ -4,10 +4,6 @@
 *.onnx
 *.engine
 
-# Input and output directories
-input/
-output/
-
 # Python
 __pycache__/
 *.py[cod]
