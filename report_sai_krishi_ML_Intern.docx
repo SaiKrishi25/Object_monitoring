@@ -22,7 +22,7 @@ Implementation Details
 
 2. Key Features:
    - Object detection using YOLOv8
-   - Object tracking with re-identification
+   - Object tracking with re-identification(Botsort)
    - Real-time performance monitoring
    - FPS counter display
    - Object counting and status information
