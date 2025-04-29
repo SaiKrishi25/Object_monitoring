@@ -35,8 +35,6 @@ Implementation Details
      - FPS counter
      - Status information
 
-I have also included object monitoring in the real-time camera feed (realtime_feed.py), where the model captures and monitors objects in real time.
-
 Results
 The system successfully processes input videos and generates output videos with object detection and tracking results. The output videos demonstrate:
 - Accurate object detection
